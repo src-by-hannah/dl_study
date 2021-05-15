@@ -1,7 +1,14 @@
 # dl_study
 
-##참조 도서
+## 참조 도서
+
 사이토 고키, "밑바닥부터 시작하는 딥러닝", 한빛미디어 (github : https://github.com/WegraLee/deep-learning-from-scratch)
+
+<br>
+
+## datasets
+
+참조 : https://github.com/WegraLee/deep-learning-from-scratch/tree/master/dataset
 
 ---
 
